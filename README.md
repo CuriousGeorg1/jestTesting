@@ -1,6 +1,6 @@
-#Unit testing with jest#
+# Unit testing with jest
 
-##What we learned##
+## What we learned
 
 With mocking we can isolate the component we're testing from dependencies
 
